@@ -27,3 +27,11 @@
 
 
 ![简单设计原则](https://tva1.sinaimg.cn/large/006y8mN6ly1g6nic5oi8aj30qg0o84qp.jpg)
+
+
+
+### 十六字心法
+
+旧的不变，新的创建
+
+一步切换，旧的再见
