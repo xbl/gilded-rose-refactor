@@ -12,7 +12,6 @@ repositories {
 }
 
 dependencies {
-    compile group: 'com.google.guava', name: 'guava', version: '11.0.2'
     testImplementation 'org.hamcrest:hamcrest:2.1'
     // 参数化测试
     testImplementation('org.junit.jupiter:junit-jupiter-params:5.5.1')
